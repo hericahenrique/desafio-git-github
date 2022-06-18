@@ -1,0 +1,21 @@
+Comandos do GIT
+
+git clone - clonar http (repositório)
+cd   /  - mudar de diretório
+dir- verificar a quantidade de pastas no terminal/ listar diretório
+dir .. - voltar uma pasta
+mkdir - criar diretório
+mkdir + nome da pasta = cria a pasta
+cls - limpar as janelas e CTRL + L = limpa todo o diretório
+ls -a = mostra arquivos ocultos
+git status
+git commit -m "Inclusão das anotações de git"  exemplo
+git push origin main
+git pull origin main
+git remote remove origin -remover origem
+git remote add origin-adicionar origem
+tecla tab - complementa
+git init - servidor dentro de uma pasta 
+git config --global - unset user.email
+git config --global --unset user.name
+
